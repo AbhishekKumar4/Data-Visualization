@@ -11,7 +11,7 @@ df = pd.read_csv('D:\\CrimeStatistics.csv')
 ````
 print(df.describe(include = 'all'))
 ````
-![alt text]()
+![alt text](https://raw.githubusercontent.com/AbhishekKumar4/Data-Visualization/master/Accessing_data_using_pandas/images/dataframe_describe.PNG)
 
 ````
 print(df.head(5))
