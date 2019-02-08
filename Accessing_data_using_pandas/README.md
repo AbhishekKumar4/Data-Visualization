@@ -13,6 +13,7 @@ print(df.describe(include = 'all'))
 ````
 ![alt text](https://raw.githubusercontent.com/AbhishekKumar4/Data-Visualization/master/Accessing_data_using_pandas/images/dataframe_describe.PNG)
 
+**3. Use head to see top n rows**
 ````
 print(df.head(5))
 ````
