@@ -29,3 +29,4 @@ print(df.tail(5))
 ````
 print(df.columns)
 ````
+![alt text](https://raw.githubusercontent.com/AbhishekKumar4/Data-Visualization/master/Accessing_data_using_pandas/images/viewallcolumns.PNG)
