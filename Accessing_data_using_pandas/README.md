@@ -46,5 +46,5 @@ print(df.shape)
 **8. Get all the values of dataset (underlying numpy array — df are stored as numpy arrays)**
 ````
 df.values
-```
-![alt text]()
+````
+![alt text](https://raw.githubusercontent.com/AbhishekKumar4/Data-Visualization/master/Accessing_data_using_pandas/images/df_values.PNG)
