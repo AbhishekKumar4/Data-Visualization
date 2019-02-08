@@ -23,3 +23,4 @@ print(df.head(5))
 ````
 print(df.tail(5))
 ````
+![alt text](https://raw.githubusercontent.com/AbhishekKumar4/Data-Visualization/master/Accessing_data_using_pandas/images/tail_func.PNG)
