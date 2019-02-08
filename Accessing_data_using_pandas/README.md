@@ -36,3 +36,8 @@ print(df.columns)
 print(df.dtypes)
 ````
 ![alt text](https://github.com/AbhishekKumar4/Data-Visualization/blob/master/Accessing_data_using_pandas/images/column_data_type.PNG)
+
+**7. Know the shape(number of rows*columns) of your data**
+````
+print(df.shape)
+````
