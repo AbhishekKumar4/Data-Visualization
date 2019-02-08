@@ -42,3 +42,9 @@ print(df.dtypes)
 print(df.shape)
 ````
 ![alt text](https://raw.githubusercontent.com/AbhishekKumar4/Data-Visualization/master/Accessing_data_using_pandas/images/shape.PNG)
+
+**8. Get all the values of dataset (underlying numpy array — df are stored as numpy arrays)**
+````
+df.values
+```
+![alt text]()
