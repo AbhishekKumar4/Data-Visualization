@@ -17,4 +17,4 @@ print(df.describe(include = 'all'))
 ````
 print(df.head(5))
 ````
-![alt text]()
+![alt text](https://raw.githubusercontent.com/AbhishekKumar4/Data-Visualization/master/Accessing_data_using_pandas/images/df_head.PNG)
