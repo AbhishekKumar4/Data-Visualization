@@ -6,3 +6,9 @@
 print(df['STATE/UT'])
 ````
 ![alt text](https://raw.githubusercontent.com/AbhishekKumar4/Data-Visualization/master/Select_a_column/images/dfcolumn.PNG)
+
+**2. Type of column**
+````
+type(df['STATE/UT'])
+````
+![alt text](https://raw.githubusercontent.com/AbhishekKumar4/Data-Visualization/master/Select_a_column/images/type.PNG)
